@@ -214,8 +214,8 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(this, "Mensaje enviado...!", Toast.LENGTH_SHORT).show(); //Y al enviarse muestra un mensaje exitoso
             }
             else
-            {           // Si no coincide entonces mostrara el numero de la llamada entrante :v
-                Toast.makeText(this, "Mi mami: " + txtNumero, Toast.LENGTH_SHORT).show();
+            {           //  mostrará el numero de la llamada entrante
+                Toast.makeText(this, "Número entrante: " + txtNumero, Toast.LENGTH_SHORT).show();
             }
 
         }
