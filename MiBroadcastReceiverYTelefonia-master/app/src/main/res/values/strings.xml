@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiBroadcastReceiverYTelefonia</string>
+    <string name="action_broadcast">net.ivanvega.mibroadcastreceiverytelefonia.MIBROACAST</string>
+</resources>
